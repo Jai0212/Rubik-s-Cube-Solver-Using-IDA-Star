@@ -1,7 +1,7 @@
 # Rubik's Cube Solver Using IDA* and DFS
 
 A fully implemented Rubik's Cube that allows you to make all possible moves with the functionality of 
-solving the Rubik's Cube using the IDA* algorithm and DFS.
+solving the Rubik's Cube using the IDA* (Iterative Deepening A Star) algorithm and DFS (Depth First Search).
 
 Cube solver created using the IDA* (Iterative Deepening A Star) algorithm 
 involving DFS (Depth First Search), heuristic value calculation (using the Manhattan Distance) and optimized 
